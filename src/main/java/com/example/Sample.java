@@ -5,5 +5,6 @@ public class Sample {
     {
         String name ="vscode + maven";
         System.out.println("Hello" + name);
+        System.out.println("Hello everyone!");
     }
 }
